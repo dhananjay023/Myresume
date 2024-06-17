@@ -4,8 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>My Resume</title>
-        <link rel="stylesheet" href="resume.css">
-        <link rel="stylesheet" href="C:\Users\USER\Desktop\resume.css">
+        <link rel="stylesheet" href="dstyle.css">
     
 </head>
 <body>
@@ -23,7 +22,7 @@
                 <p>
                     <strong>Email Address: </strong>
                     <i class="fa fa-envelope" aria-hidden="true"></i>
-                    <a href="mailto:226301076@gkv.ac.in">226301076@gkv.ac.in</a>
+                    <a href="mailto:dhananjayvarshney4045@gmail.com">dhananjayvarshney4045@gmail.com</a>
                 </p>
                 <p>
                     <strong>LinkedIn: </strong>
@@ -42,6 +41,7 @@
                 <ul>
                     <li>General-Purpose Programming Languages: C Programming, Python, Java</li>
                     <li>Web Development Languages: HTML & CSS</li>
+                    <li>Content Management Systems: WordPress</li>
                     <li>Software & Tools: MS Excel, VS Code</li>
                     <li>Database Query Language: SQL</li>
                 </ul>
@@ -87,7 +87,6 @@
     </p>
     <p>As I continue to grow and learn in my academic and professional journey, I remain committed to pushing boundaries, embracing challenges, and making meaningful contributions to the ever-evolving landscape of technology.</p>
 </section>
-
         </article>
     </main>
 </body>
